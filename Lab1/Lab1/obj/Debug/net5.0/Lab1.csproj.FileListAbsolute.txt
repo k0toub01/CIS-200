@@ -1,0 +1,16 @@
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\khali\OneDrive\Desktop\Senior Fall\CIS 200\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
